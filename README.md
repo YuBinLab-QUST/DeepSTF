@@ -1,7 +1,6 @@
 # DeepSTF
 DeepSTF: Predicting transcription factor binding sites by interpretable deep neural networks combining sequence and shape
 
-DeepSTF extracts DNA higher-order sequence features using stacked convolutional neural networks (CNNs), while rich DNA shape profiles are extracted by combining transformer encoder structures and bidirectional long short-term memory (Bi-LSTM), and finally the derived higher-order sequence features and representative shape profiles are integrated into the channel dimension to achieve accurate TFBSs prediction.
 
 # Dependencies
 
